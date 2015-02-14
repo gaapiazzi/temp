@@ -1,0 +1,24 @@
+{
+    "title": "Casamiento",
+    "thumbnail": "images/Albums/Album1/thumbnail.jpg",
+    "photos": [{
+		"title": "Quisiera que esto dure para siempre!!",
+		"source": "images/Albums/Album1/album1_photo1.jpg",
+		"thumbnail": "images/Albums/Album1/thumbnail/album1_photo1.jpg"
+	},
+	{
+		"title": "Torta de bodas",
+		"source": "images/Albums/Album1/album1_photo2.jpg",
+		"thumbnail": "images/Albums/Album1/thumbnail/album1_photo2.jpg"
+	},
+	{
+		"title": "La decisión mas importante, te elijo a vos!",
+		"source": "images/Albums/Album1/album1_photo3.jpg",
+		"thumbnail": "images/Albums/Album1/thumbnail/album1_photo3.jpg"
+	},
+    {
+		"title": "FELICIDAD PLENA!!",
+		"source": "images/Albums/Album1/album1_photo4.jpg",
+		"thumbnail": "images/Albums/Album1/thumbnail/album1_photo4.jpg"
+	}]
+}
